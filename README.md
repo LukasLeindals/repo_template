@@ -22,7 +22,7 @@ gh repo create <repo_name> --public --confirm
 Afterwards on your local machine run
 
 ```bash
-cookiecutter https://github.com/SkafteNicki/mlops_template
+cookiecutter https://github.com/LukasLeindals/repo_template
 ```
 
 and input starting values for the project. When asked for the repository name when creating the template,
