@@ -1,3 +1,3 @@
 # TODO
 
--[ ] Fix docker files
+- [ ] Fix docker files
